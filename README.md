@@ -114,7 +114,7 @@ The report is built on a single dataset containing the following key fields and 
 ## 🎨 Theme
 
 - **Theme name:** Sunflower Twilight (built-in Power BI theme)
-- **Background:** White (`#FFFFFF`)
+- **Background:** White 
 
 ---
 
@@ -149,10 +149,4 @@ The report is built on a single dataset containing the following key fields and 
 
 ---
 
-## 📌 Notes
 
-- The `.pbix` file includes both the report layout and the embedded data model. No external database connection is required to view the report as-is.
-- The dashboard was originally created from a Cloud-based source (Power BI Service) and exported as a `.pbix`.
-- GitHub does **not** render `.pbix` files natively — you must download and open them in Power BI Desktop.
-
----
