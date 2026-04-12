@@ -2,6 +2,7 @@
 
 A two-page interactive Power BI dashboard designed to monitor customer churn risk, analyze service usage patterns, and identify key drivers of customer attrition.
 
+![image alt](https://github.com/Sweta941/Customer-Churn-Dashboard---Power-BI/blob/35a85ec8eba77bc3170d759233fd86cc7c463bf9/Screenshot%20(88).png)
 
 ---
 
