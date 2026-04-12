@@ -4,6 +4,8 @@ A two-page interactive Power BI dashboard designed to monitor customer churn ris
 
 ![image alt](https://github.com/Sweta941/Customer-Churn-Dashboard---Power-BI/blob/35a85ec8eba77bc3170d759233fd86cc7c463bf9/Screenshot%20(88).png)
 
+![image alt](https://github.com/Sweta941/Customer-Churn-Dashboard---Power-BI/blob/b96e2662a36df9c7b3d535ef69c9531b0f02b9e1/Screenshot%20(87).png)
+
 ---
 
 ## 📁 File
