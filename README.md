@@ -157,5 +157,4 @@ The report is built on a single dataset containing the following key fields and 
 
 **[Sweta Mehta]**  
 Data Analyst | Data Science Portfolio Project  
-
 ----
